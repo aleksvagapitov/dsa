@@ -1,2 +1,5 @@
+build:
+	npm install
+
 test:
-	npx jest
+	npx jest --coverage

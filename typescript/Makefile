@@ -1,5 +1,5 @@
 build:
-	npm install
+	bun install
 
 test:
-	npx jest --coverage
+	bun jest --coverage
